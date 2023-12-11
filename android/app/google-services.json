@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869301876876",
+    "project_id": "myappy-f4016",
+    "storage_bucket": "myappy-f4016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869301876876:android:7db521f34ca29bc7afe3a9",
+        "android_client_info": {
+          "package_name": "com.example.foodorderingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8-LuAVHl8zXJOHJl4FQlaRLZeKLFAM9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
